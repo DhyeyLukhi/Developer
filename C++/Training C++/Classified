@@ -1,0 +1,2 @@
+1. do-while loop always executes minimum one time
+    --> It does not matter that the condition is false at the first time.
