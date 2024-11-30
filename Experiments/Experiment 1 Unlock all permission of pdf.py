@@ -60,11 +60,10 @@ def unlock_pdfs_in_folder(folder_path):
         if unlock_pdf_permissions(pdf_path):
             success_count += 1
     
-    print(f"\nProcessing complete!")
+
     print(f"Successfully unlocked {success_count} out of {total_files} PDF files")
 
 # Example usage
 if __name__ == "__main__":
     folder_path = "D:\\Study\\IC\\"  # Replace with your folder path
     unlock_pdfs_in_folder(folder_path)
-
