@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="910c6ae2-a6e0-4ff0-b85c-a0687e143bca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Experiments/Tests 31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/Tests 35.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Tests 35 Mouse Position.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Python/Lib/site-packages/instaloader/instaloader.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;0f23ecff&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2SMnBMoIJqIRiJnnjzavR2jP7Qp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Doctests in Tests 27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Address Details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Agecalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.All In One.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Audio Dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Audio captcha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Background Remover.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Backup1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Backup2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Backup3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Barcode Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Calander.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Country Details.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DRS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DSA - 1 Array and List.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DSA - 2 Classes and Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DSA - 3 Linked List code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DSA Training - 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Display Notifications.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Downloader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experiment 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experiment 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experiment 3 Download all videos at HD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Experiment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Fake User.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File Chooser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hand Gestures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Handgest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.High Resolution Downloader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.High Resolution Video Downloader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Instagram cracked.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mail Sender for TendozeFood.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Media Player.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Notepad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.OTPcopy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PDF Locker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Password Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prime 10i.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Prime 11i .executor&quot;: &quot;Run&quot;,
+    &quot;Python.QR Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Realtime currency converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stock Candle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TIVIS 11i.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TIVIS V-10i.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TIVIS V-6.0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TODO.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Temporary Email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testing 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testing 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 10 creative friendship day.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 11 run file when key press.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 12 getting right name.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 13.pyw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 14 online video download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 14 youtube video download.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 15 high resolution video downloader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 16 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 17 open images in google.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 18 Lorem ipsum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 18 QR Code Generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 19 Periodictable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 2 correct key and get the message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 20 pressing correct key.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 20 visualise word frequencies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 22 toggle to WiFi ON-OFF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 28 printing words with next level.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 28 termcolor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 29 stock market candle sticks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 30 galaxy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 31 Playing youtube video.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 31 Temporary tempmail.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 32 sending message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 33 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 33 Password Strength check Upgraded.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 33 Password Strength checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 34 Response.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 35 encrypt the pdf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 36 Temporary Email.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 36 location.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 37 Hide the image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 37 Hide the message inside the image.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 38 Fake User.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 38 text to speech in new way.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 4 three fingers gestures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 4 trackpad work using keyboard.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 5 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 6 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 7 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 7 Share market price checker.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 8 .executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TrainingPandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Video-Audio Converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.WhatsApp Message.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cafe_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checks.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crackpdf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop10 alternative constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop4 inheritane.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop5 access modifier.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop6 name mangling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop7 static method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop8 instace and class variable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop9 classmethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro 61 iter.., gener, compre.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro12 printing list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro17 creating function, calling it.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro18 try, except and finally.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro3 about print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro32 enumerate function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro33__version__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro5 about string, unique functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro54.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro55.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro56 'yield'.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro56.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pro9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tictactoe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train panadas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trainingofpandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.trainpandas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.views.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wasend.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Coding&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shubh\PycharmProjects\pythonProject\Experiments" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Coding\My Programs" />
+      <recent name="C:\Coding\Experiments" />
+      <recent name="C:\Users\shubh\PycharmProjects\pythonProject\DhyeySite\mycomsite\myShop\static\myShop" />
+      <recent name="C:\Users\shubh\PycharmProjects\pythonProject\DhyeySite\mycomsite\myShop\templates\myShop" />
+      <recent name="C:\Users\shubh\PycharmProjects\pythonProject\My Programs" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="?" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="910c6ae2-a6e0-4ff0-b85c-a0687e143bca" name="Changes" comment="" />
+      <created>1688965191338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688965191338</updated>
+    </task>
+    <servers />
+  </component>
+</project>
