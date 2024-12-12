@@ -1,52 +1,52 @@
-import os
-import acoustid
-from mutagen.easyid3 import EasyID3
-from pydub import AudioSegment
-import requests
-from acoustid import *
+import pydivert
+import time
 
+def set_speed_limit(rate_kbps):
+    """
+    Limit the download speed by delaying packets.
 
-# Specify the directory where your MP3 files are located
-directory = "D:\\New hits\\"
+    :param rate_kbps: Speed limit in kilobits per second.
+    """
+    bytes_per_second = (rate_kbps * 1000) // 8
+    delay = 0.1  # 100ms delay per loop
+    max_bytes_per_delay = bytes_per_second * delay
 
-# AcoustID API key
-api_key = "dCRu8D4WSm"
+    print(f"Applying speed limit: {rate_kbps} kbps")
 
-# Function to update the metadata
-def update_metadata(file_path, album, artist, title):
-    audio = EasyID3(file_path)
-    audio['album'] = album
-    audio['artist'] = artist
-    audio['title'] = title
-    audio.save()
+    with pydivert.WinDivert("inbound") as w:
+        w.open()
+        buffer = []
+        buffer_size = 0
 
-# Function to identify the track using AcoustID
-def identify_track(file_path):
-    audio = AudioSegment.from_file(file_path)
-    duration = len(audio) // 1000  # Duration in seconds
-    fingerprint = acoustid.fingerprint_file(file_path)
-    response = acoustid.lookup(api_key, fingerprint[1], duration)
+        for packet in w:
+            buffer.append(packet)
+            buffer_size += len(packet.raw)
 
-    if response['status'] == 'ok' and len(response['results']) > 0:
-        best_result = response['results'][0]
-        return best_result['recordings'][0]
-    return None
+            if buffer_size >= max_bytes_per_delay:
+                time.sleep(delay)
+                while buffer:
+                    w.send(buffer.pop(0))
+                buffer_size = 0
 
-# Loop through all files in the directory
-for filename in os.listdir(directory):
-    if filename.endswith(".mp3") or filename.endswith(".MP3") or filename.endswith(".Mp3"):
-        file_path = os.path.join(directory, filename)
+def remove_speed_limit():
+    """
+    Stop filtering packets, effectively removing the speed limit.
+    """
+    print("Speed limit removed. Restarting unfiltered traffic.")
+
+if __name__ == "__main__":
+    print("--- Internet Speed Limiter (Windows) ---")
+    print("1. Set Speed Limit")
+    print("2. Remove Speed Limit")
+    choice = input("Enter your choice (1/2): ")
+
+    if choice == "1":
+        rate = int(input("Enter the speed limit in kbps (e.g., 1000 for 1Mbps): "))
         try:
-            track_info = identify_track(file_path)
-            if track_info:
-                artist = track_info['artists'][0]['name']
-                title = track_info['title']
-                album = track_info.get('releasegroups', [{}])[0].get('title', 'Unknown Album')
-                update_metadata(file_path, album, artist, title)
-                print(f"Updated metadata for {filename}")
-            else:
-                print(f"Could not identify {filename}")
-        except Exception as e:
-            print(f"Failed to update metadata for {filename}: {e}")
+            set_speed_limit(rate)
+        except KeyboardInterrupt:
+            print("\nSpeed limiting interrupted by user.")
+    elif choice == "2":
+        remove_speed_limit()
     else:
-        print(f"Skipping {filename}: not an MP3 file")
+        print("Invalid choice. Exiting.")
