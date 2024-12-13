@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="910c6ae2-a6e0-4ff0-b85c-a0687e143bca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/Experiment 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Experiment 2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,6 +134,7 @@
     &quot;Python.Tests 29 stock market candle sticks.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 30 galaxy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 31 Free Hotstar.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 31 Playing youtube video.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 31 Temporary tempmail.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 31.executor&quot;: &quot;Run&quot;,
@@ -146,6 +146,7 @@
     &quot;Python.Tests 34 Response.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 35 encrypt the pdf.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 36 .executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 36 Temporary Email.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 36 location.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 36.executor&quot;: &quot;Run&quot;,
