@@ -3,7 +3,6 @@ import time
 from pynput.mouse import Button, Controller
 import keyboard
 
-# Initialize mouse controller
 mouse = Controller()
 
 # Flag to keep track of whether the left mouse click should be pressed
