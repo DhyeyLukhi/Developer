@@ -8,6 +8,7 @@ mouse = Controller()
 # Flag to keep track of whether the left mouse click should be pressed
 clicking = False
 
+
 def click_mouse():
     """Continuously presses the left mouse button while `clicking` is True."""
     global clicking
@@ -15,6 +16,7 @@ def click_mouse():
         if clicking:
             mouse.click(Button.left)
         time.sleep(0.001)  # Adjust the delay to control the click frequency
+
 
 def toggle_clicking():
     """Toggles the clicking state when Caps Lock is pressed."""
@@ -28,6 +30,7 @@ def toggle_clicking():
         else:
             caps_lock_pressed = False
         time.sleep(0.1)  # Small delay to prevent high CPU usage
+
 
 # Create threads for mouse clicking and Caps Lock toggle
 click_thread = threading.Thread(target=click_mouse, daemon=True)
