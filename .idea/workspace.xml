@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="910c6ae2-a6e0-4ff0-b85c-a0687e143bca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Experiments/Tests 36 poki.com airport clash.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="910c6ae2-a6e0-4ff0-b85c-a0687e143bca" name="Changes" comment="import code for airport clash at poki,com">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/Tests 36 .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/Tests 36 poki.com airport clash.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Tests 36 poki.com airport clash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/Tests 37.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Tests 37.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,6 +151,7 @@
     &quot;Python.Tests 36 .executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 36 Temporary Email.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 36 location.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tests 36 poki.com airport clash.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 36.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 37 Hide the image.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tests 37 Hide the message inside the image.executor&quot;: &quot;Run&quot;,
@@ -249,7 +249,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -265,10 +265,20 @@
       <option name="presentableId" value="Default" />
       <updated>1688965191338</updated>
     </task>
+    <task id="LOCAL-00001" summary="import code for airport clash at poki,com">
+      <option name="closed" value="true" />
+      <created>1734357061421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734357061421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just add something" />
-    <option name="LAST_COMMIT_MESSAGE" value="just add something" />
+    <MESSAGE value="import code for airport clash at poki,com" />
+    <option name="LAST_COMMIT_MESSAGE" value="import code for airport clash at poki,com" />
   </component>
 </project>
