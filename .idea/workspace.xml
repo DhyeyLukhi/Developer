@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="910c6ae2-a6e0-4ff0-b85c-a0687e143bca" name="Changes" comment="added code to download instagram user account in">
-      <change afterPath="$PROJECT_DIR$/My Programs/Songs data restore.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/Tests 37 Restore the properties of Songs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Tests 37 .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiments/Tests 6 Decimal to other numeric system.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Tests 6 .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiments/Tests 38.py" beforeDir="false" afterPath="$PROJECT_DIR$/Experiments/Tests 38.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +139,7 @@
     "Python.Tests 31 Playing youtube video.executor": "Run",
     "Python.Tests 31 Temporary tempmail.executor": "Run",
     "Python.Tests 31.executor": "Run",
+    "Python.Tests 32 Digital Clock.executor": "Run",
     "Python.Tests 32 sending message.executor": "Run",
     "Python.Tests 32.executor": "Run",
     "Python.Tests 33 .executor": "Run",
@@ -159,6 +158,7 @@
     "Python.Tests 37.executor": "Run",
     "Python.Tests 38 Fake User.executor": "Run",
     "Python.Tests 38 text to speech in new way.executor": "Run",
+    "Python.Tests 38.executor": "Run",
     "Python.Tests 4 three fingers gestures.executor": "Run",
     "Python.Tests 4 trackpad work using keyboard.executor": "Run",
     "Python.Tests 4.executor": "Run",
